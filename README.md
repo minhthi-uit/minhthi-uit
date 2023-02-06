@@ -1,4 +1,4 @@
-### Minh Thi - Intern Developer 👋
+### Minh Thi - Front-end Developer 👋
 
 
 <!--
